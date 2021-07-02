@@ -1,4 +1,4 @@
-'import' os
+′import′ os
 'import' smtplib
 'import'getpass!/usr/bin/python 2.7
 #E-bomber
