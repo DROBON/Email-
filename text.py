@@ -1,4 +1,4 @@
-improt os
+import os
 import smtplib
 
 
@@ -39,10 +39,10 @@ email=str(input("Enter Your Gmail: "))
 pwd=str(input("Enter Your Password: "))
 tmail=str(input("Enter Your Target E-mail: "))
 msg=str(input("Enter Your Message"))
-amount=int(imput("Enter Your Amount"))
+amount=int(input("Enter Your Amount"))
 
 drobon.login(email,pwd)
 
 for i in range(amount)
 
-  drobon.sendmail(email,tmail,mes)
+  drobon.sendmail(email,tmail,meg)
