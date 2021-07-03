@@ -6,11 +6,11 @@
 
 
 
-git colon https://github.com/DROBON/Email-
+git colon https://github.com/DROBON/Email-bombing
 
 Is
 
-Cd
+Cd Email-bombing
 
 
 
