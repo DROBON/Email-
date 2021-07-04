@@ -6,7 +6,7 @@
 
 
 
-git colon https://github.com/DROBON/Email-bombing
+git colon https://github.com/DROBON/Email-bombing.git
 
 Is
 
