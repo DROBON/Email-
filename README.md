@@ -1,16 +1,16 @@
 # Email-hack
 
 
-###.  pkg instal git
+&.  pkg instal git
 
 
 
 
-git colon https://github.com/DROBON/Email-bombing.git
+&.  git clone https://github.com/DROBON/Email-bombing.git
 
-Is
 
-Cd Email-bombing
+
+&.  cd Email-bombing
 
 
 
