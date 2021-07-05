@@ -14,5 +14,9 @@
 
 
 
+&.   python text.py
+
+
+
 
 
