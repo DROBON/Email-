@@ -11,7 +11,6 @@ green ='\33[40m'
 cyan ='\33[96m'
 end ='\33[0m'
 line=yellow+ '*=================================================================='
-logo=red+str
 
 print ('                                                                ')
 print ('                                                                ')
@@ -26,7 +25,6 @@ print ('          ♥               I 💔 HATE 💔 YOU             ♥      ')
 print ('          ♥      Only for Educational Purposes !!      ♥      ')
 print ('          ♥                                            ♥      ')
 print ('          ♥®®®®®®®®®®®®®®®®®®®®®®®®®®®®®®®®®®®®®®®®®®®®♥      ')
-print ('\n\n')
 
 
 
@@ -42,7 +40,3 @@ msg=str(input("Enter Your Message"))
 amount=int(input("Enter Your Amount"))
 
 drobon.login(email,pwd)
-
-for i in range(amount)
-
-  drobon.sendmail(email,tmail,meg)
